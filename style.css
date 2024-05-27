@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.avatar{
+    border: 6px solid;
+    border-color: #ffffff;
+    border-radius: 100%;
+}
+.hidden {
+    display: none;
+}
+.specialty{
+    color: #585858;
+}
+.contact{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 21px; 
+}
+.title1 {
+    color: #163853;
+    font-weight: bold;
+    font-size: 21px;
+}
+.para1 {
+    color: #4d4d4d;
+}
+.contact1 {
+    font-size: 14px;
+    line-height: 1.4px;
+}
+.edu{
+    font-weight: bold;
+    line-height: 8.5px; 
+}
+.exp {
+    line-height: 8.5px; 
+}
+.circle{
+    position: absolute;
+    background-color:#163853;
+    width: 10px;
+    height: 10px;
+    bottom: 19% ;
+    left: 520px;
+    border-radius: 50%;
+}
+.circle2 {
+    position: absolute;
+    background-color:#163853;
+    width: 10px;
+    height: 10px;
+    top: 110% ;
+    left: 520px;
+    border-radius: 50%;
+}
+.circle3 {
+    position: absolute;
+    background-color:#163853;
+    width: 10px;
+    height: 10px;
+    top: 140% ;
+    left: 520px;
+    border-radius: 50%;
+}
+.lineTitle{
+    border: 2px solid #163853;
+    width: 5vw;
+
+}
+.lineWithtitle {
+    line-height: 8.5px; 
+}
+.line {
+    border: 1px solid #163853;
+}
